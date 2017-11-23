@@ -5,7 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/Firebase.iml" filepath="$PROJECT_DIR$/Firebase.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/constraint/constraint.iml" filepath="$PROJECT_DIR$/constraint/constraint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contact/contact.iml" filepath="$PROJECT_DIR$/contact/contact.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matrii/matrii.iml" filepath="$PROJECT_DIR$/matrii/matrii.iml" />
       <module fileurl="file://$PROJECT_DIR$/noteme/noteme.iml" filepath="$PROJECT_DIR$/noteme/noteme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webservices/webservices.iml" filepath="$PROJECT_DIR$/webservices/webservices.iml" />
     </modules>
   </component>
 </project>

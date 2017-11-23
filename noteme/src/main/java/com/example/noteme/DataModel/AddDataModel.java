@@ -10,7 +10,7 @@ public class AddDataModel {
     private String title;
     private String desc;
 
-    public AddDataModel(){
+    public AddDataModel(String title, String desc){
 
     }
 

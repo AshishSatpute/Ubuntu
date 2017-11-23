@@ -34,6 +34,7 @@ public class AddNote extends AppCompatActivity {
 
         databaseReference = FirebaseDatabase.getInstance().getReference("addDataModel");
 
+
         buttonSave.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -51,7 +52,7 @@ public class AddNote extends AppCompatActivity {
 
         if (!TextUtils.isEmpty(title)) {
 
-            String id = databaseReference.push().getKey();
+         String id = databaseReference.push().getKey();
 
             AddDataModel addDataModel = new AddDataModel(id,title,desc);
             

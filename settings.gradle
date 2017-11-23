@@ -1,1 +1,1 @@
-include ':app', ':noteme', ':constraint'
+include ':app', ':noteme', ':constraint', ':webservices', ':matrii', ':contact'

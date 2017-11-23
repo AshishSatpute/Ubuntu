@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contact</string>
+    <string name="string_click_to_load">string_click_to_load</string>
+    <string name="string_getting_json_title">string_getting_json_title</string>
+    <string name="string_getting_json_message">string_getting_json_message</string>
+    <string name="string_some_thing_wrong">string_some_thing_wrong</string>
+    <string name="string_internet_connection_not_available">string_internet_connection_not_available</string>
+</resources>
